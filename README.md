@@ -1,6 +1,5 @@
-# Project Title (Inferential Question)
-### UBC STAT 201 Group 25
-### Winter 2023
+# Impacts of Demographic Factors on Math Performance
+### UBC STAT 201 Project - Group 25
 
 
 ### Contributors
